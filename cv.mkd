@@ -7,10 +7,10 @@ Vaga
 Mauricio Soares de Oliveira
 ===========================
 
-**Idade:** 23 anos
-**Email:** m.soares2603@gmail.com
-**Estado Civil:** Solteiro
-**Portfolio Online:** [http://mauriciodev.com/] (http://mauriciodev.com/)
+* **Idade:** 23 anos
+* **Email:** m.soares2603@gmail.com
+* **Estado Civil:** Solteiro
+* **Portfolio Online:** [http://mauriciodev.com/] (http://mauriciodev.com/)
 
 Skills
 ======
