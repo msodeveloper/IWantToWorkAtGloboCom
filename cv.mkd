@@ -1,19 +1,113 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+[Área de Semântica]
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Mauricio Soares de Oliveira
+===========================
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+**Idade:** 23 anos
+**Email:** m.soares2603@gmail.com
+**Estado Civil:** Solteiro
+**Portfolio Online:** [http://mauriciodev.com/] (http://mauriciodev.com/)
+
+Skills
+======
+
+Algumas de minhas habilidades/ferramentas usadas no dia a dia
+
+* HTML (Avançado)
+	* Código bem estruturado e comentado
+
+* CSS3 (Avançado)
+	* Animações e transições
+	* Uso de keyframe
+	* SASS
+
+* Javascript (Intermediário)
+	* Puro ou com jQuery
+	* Modular
+
+* PHP (Intermediário)
+	* Orientado a Objetos
+	* Frameworks (CodeIgniter, Zend)
+
+* Terminal (Básico)
+	* Node Package Manager
+
+* GIT (Básico)
+	* Uso SourceTree no trabalho, e Github para projetos pessoais
+
+* Phonegap (Básico)
+	* Compilar para IOS e Android
+	* Implementação de plugins
+
+* Sublime Text 2
+	* Package Control
+
+
+Estudos
+=======
+
+O que venho praticado em meus tempos livres...
+
+* AngularJS
+* Bower
+* Yeoman
+* Firebase
+* NodeJS
+* Ruby
+
+Experiência Profissional
+========================
+
+* RockerHeads - Front-End Developer
+	* 8 meses (trabalho atual)
+	* Responsável pelo desenvolvimento front-end de websites, landing pages, e apps. Sites com conexão com facebook e desenvolvedor de um App nativo para IOS e Android usando Phonegap, o qual integrava com um webservice.
+
+* DBR.ag - Front-End Developer
+	* 6 meses
+	* Responsável por diversos projetos, involvendo apps para facebook, diversos websites (incluindo o site da agência), e o front-end da startup da agência chamada Buy.On.Social. Também participei de melhorias no portal de relacionamento da CCEE.
+
+* DigiPronto - Front-End Developer
+	* 4 meses
+	* Fiz parte do projeto no qual desenvolvemos o site de relacionamento dos funcionários da TIM, funcionava como uma rede social interna.
+
+* Simplebrasil - Front/Back-End Developer
+	* 1 ano e 6 meses
+	* Responsável pelo desenvolvimento de websites, portais e apps para facebook.
+
+* APAE Itupeva - Instrutor
+	* 6 meses como integral e 6 meses como voluntário
+	* Instrutor de informática para crianças especiais.
+
+Formação Acadêmica
+==================
+* Senac
+	* Técnico em Informática
+
+* Impacta
+	* Introdução à Lógica de Programação
+	* MySQL
+	* XHTML – Tableless
+	* PHP (Módulo 1)
+
+* Palestras
+	* BrazilJS 2013
+	* WebDay 2013
+	* SampaJS 2012
+	* Facebook World Hack 2012
+
+Plus?
+=====
+
+* Sou muito bom com inglês.
+* Sou extremamente paciente e focado.
+* Tento me atualizar em relação a tecnologias, estou registrado em várias newsletters de desenvolvimento, faço parte de diversos grupos no facebook.
+* Sou Músico, e "ando" de skate.
+* Amo o que faço, e faço com amor.
+
+**Referência de trabalhos no meu portólio online**
